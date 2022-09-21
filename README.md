@@ -1,2 +1,1 @@
-# fbclone
-create by me -raniesh
+# facebook-clone-boilerplate
